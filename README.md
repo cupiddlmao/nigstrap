@@ -3,7 +3,6 @@
 
 <p align="center">
     <img src="https://archive.org/download/app-icon-roblox/app-icon-roblox.png" width="420">
-    <img src="https://archive.org/download/app-icon-roblox/app-icon-roblox.png" width="420">
 </p>
 
 <div align="center">
