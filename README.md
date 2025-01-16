@@ -18,19 +18,19 @@
 
 Nigstrap is a third-party fork of Bloxstrap and replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
+Running into a problem or need help with something? [Contact me on telegram](https://t.me/LITESHOOTA). If you can't find anything, or would like to suggest something, please [submit an issue](https://t.me/LITESHOOTA).
 
-Bloxstrap is only supported for PCs running Windows.
+Nigstrap is only supported for PCs running Windows.
 
 ## Frequently Asked Questions
 
 **Q: Is this malware?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com).
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing.
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
+**A:** No, it shouldn't. Nigstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
 
 
 ## Features
@@ -39,6 +39,8 @@ Bloxstrap is only supported for PCs running Windows.
 - Simple support for modding of content files for customizability (death sound, mouse cursor, etc)
 - See where your server is geographically located (courtesy of [ipinfo.io](https://ipinfo.io))
 - Ability to configure graphics fidelity and UI experience
+- Multi-instance launching
+- Preset fast flags
 
 ## Installing
 Download the [latest release of Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
