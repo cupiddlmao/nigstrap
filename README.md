@@ -1,6 +1,3 @@
-> [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
-
 <p align="center">
     <img src="https://archive.org/download/app-icon-roblox/app-icon-roblox.png" width="420">
 </p>
